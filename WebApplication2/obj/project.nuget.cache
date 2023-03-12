@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jROpnyqIUwLarEWCSXOkRYEwvjiAaQPn7OblO331Bon23TPFvbfjKmDPoNOoi3DB2pgbefXxyvz/Mr2tcuY4yQ==",
+  "dgSpecHash": "ZmLOUaN72sPTmkdS8TnIkdSozwosocqTqmX7t0Ge5k9m8V1qDtTRwtApkb/wQWoj5ar8AFe+Vo7x2+1O/R0+NA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\b.labadi\\Desktop\\Task1 Sql with Auth - Final\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
+  "projectFilePath": "C:\\Users\\b.labadi\\Desktop\\WebApplication2\\Task-1-BackEnd\\WebApplication2\\WebApplication2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\b.labadi\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\b.labadi\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
